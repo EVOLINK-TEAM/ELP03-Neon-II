@@ -1,0 +1,7 @@
+.pio
+.cache
+.vscode
+/compile_commands.json
+
+/lib/Evlk-NoPins-Library
+/lib/Evlk-Shift-Register-Library
